@@ -1,3 +1,4 @@
-# Programa Nota!
+# Determinação de nota escolar
 
-Programa com estrutura ecadeada baseado em determinar a letra da nota de um aluno com base na pontuação numérica do aluno.
+Aqui, iremos criar um programa que determina a letra da nota de um aluno com base na pontuação numérica. Observe!
+Nesse caso, a nota do aluno é verificada em diferentes intervalos de valores, e o programa imprime a letra correspondente à nota de acordo com a estrutura de decisão encadeada.
